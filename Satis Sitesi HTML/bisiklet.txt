@@ -1,0 +1,22 @@
+<body background="A3.jpg">
+
+<p><center><h1>MAXUMO ANEMON 26" JANT 21 VİTES ŞEHİR BİSİKLETİ BEYAZ</h1></center></p>
+
+<center><img src="bisiklet1.jpg"/img></center>
+
+<p><center><h1>ÜRÜN ÖZELLİKLERİ</h1></center></p>
+<p><center><font size=5 Ağırlık	13 kg<br>
+Bisiklet Tipi.	Şehir Bisikleti<br>
+Fren Tipi	V Fren<br>
+Jant	26 inç<br>
+Kadın Tipi Kadro	Hayır<br>
+Kadro Boyu	19 inç - 48 cm<br>
+Kadro Malzemesi	Çelik<br>
+Orta Amortisör	Yok<br>
+Ön Amortisör	Yok<br>
+Vites	21 Vites<br>
+Diğer<br>
+Garanti Süresi (Ay)	12<br>
+Yurt Dışı Satış	Yok<br>
+Stok Kodu	HBV00000NTUD3
+</font></center></p>

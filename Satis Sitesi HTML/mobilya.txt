@@ -1,0 +1,94 @@
+<html>
+<body>
+<title>celooxpress</title>
+
+<body background="A3.jpg"><center>
+
+<table width="100%" height="300" align="center" bgcolor="#EBC8B2">
+<tr>
+<td colspan="5"><img width="100%" height="300" src="logo.png"></td>
+</tr>
+
+
+<table>
+<tr>
+        <td align="center"><a href="siteanasayfa.html"><button style="width:255" type="button">Anasayfa</button></a></td>
+        <td align="center"><a href="elektronik.html"><button style="width:255" type="button">Elektronik</button></a></td>
+        <td align="center"><a href="mobilya.html"><button style="width:255" type="button">Mobilya</button></a></td>
+        <td align="center"><a href="spor.html"><button style="width:255"  type="button">Spor</button></a></td>
+        <td align="center"><a href="iletisim.html"><button style="width:255"  type="button">İletişim</button></a></td>
+      </tr>
+</table>
+
+
+<table border="1" bgcolor="#EBC8B2">
+    <tr>
+        <td>      
+<p><center> 2264TL </center></p>      
+<p> <center> <a href="yatak.html">Yatak Detay İçin Tıklayınız</p></center>
+<a href=yatak2.jpg" onclick="window.location.replace('yatak2.jpg'); return false;"><img src="yatak1.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+        <td>      
+<p><center> <del>3160TL</del> 2799TL </center></p>      
+<p> <center> <a href="baza.html">Baza Detay İçin Tıklayınız</p></center>
+<a href=baza2.jpg" onclick="window.location.replace('baza2.jpg'); return false;"><img src="baza1.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+        <td>      
+<p><center> 3799TL </center></p>      
+<p> <center> <a href="portmanto.html">Portmanto Detay İçin Tıklayınız</p></center>
+<a href=portmanto2.jpg" onclick="window.location.replace('portmanto2.jpg'); return false;"><img src="portmanto1.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+        <td>      
+<p><center> 3799TL </center></p>      
+<p> <center> <a href="portmanto.html">Portmanto Detay İçin Tıklayınız</p></center>
+<a href=portmanto2.jpg" onclick="window.location.replace('portmanto2.jpg'); return false;"><img src="portmanto1.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+</tr>
+
+<br>
+
+<tr>
+        <td>      
+<p><center> 4769TL </center></p>      
+<p> <center> <a href="koltuk.html">Koltuk Detay İçin Tıklayınız</p></center>
+<a href=koltuk1.jpg" onclick="window.location.replace('koltuk1.jpg'); return false;"><img src="koltuk2.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+        <td>      
+<p><center> 4769TL </center></p>      
+<p> <center> <a href="koltuk.html">Koltuk Detay İçin Tıklayınız</p></center>
+<a href=koltuk1.jpg" onclick="window.location.replace('koltuk1.jpg'); return false;"><img src="koltuk2.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+        <td>      
+<p><center> <del>2499TL</del> 1990TL </center></p>      
+<p> <center> <a href="ünite.html">Televizyon Ünitesi Detay İçin Tıklayınız</p></center>
+<a href=ünite2.jpg" onclick="window.location.replace('ünite2.jpg'); return false;"><img src="ünite1.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+        <td>      
+<p><center> <del>1249TL</del> 999TL </center></p>      
+<p> <center> <a href="sehpa.html">Sehpa Detay İçin Tıklayınız</p></center>
+<a href=sehpa2.jpg" onclick="window.location.replace('sehpa2.jpg'); return false;"><img src="sehpa1.jpg" width="300" height="300"></a>
+<p><font size="3"><center>Ürünü Görüntülemek İçin Fotoğrafa Tıklayınız</center></p>
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

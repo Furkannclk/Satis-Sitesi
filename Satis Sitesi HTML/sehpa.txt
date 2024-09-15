@@ -1,0 +1,14 @@
+<body background="A3.jpg">
+
+<p><center><h1>Variant Concept Roma Tepsi Zigon Sehpa Ceviz - Ceviz</h1></center></p>
+
+<center><img src="sehpa1.jpg"/img></center>
+
+<p><center><h1>ÜRÜN ÖZELLİKLERİ</h1></center></p>
+<p><center><font size=5 Yükseklik: 41 cm<br>
+Genişlik: 54 cm<br>
+Derinlik: 40 cm<br>
+Garanti Süresi (Ay)	24<br>
+Yurt Dışı Satış	Yok<br>
+Stok Kodu	HBV000008WTZP
+</font></center></p>

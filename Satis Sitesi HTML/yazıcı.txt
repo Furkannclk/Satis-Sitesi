@@ -1,0 +1,43 @@
+<body background="A3.jpg">
+
+<p><center><h1>Samsung Xpress SL-M2070 Fotokopi + Tarayıcı + Çok Fonksiyonlu Mono Lazer Yazıcı SS293E</h1></center></p>
+
+<center><img src="yazıcı1.jpg"/img></center>
+
+<p><center><h1>ÜRÜN ÖZELLİKLERİ</h1></center></p>
+<p><center><font size=5 A3	Yok<br>
+Ağırlık (kg)	7<br>
+Air Print	Yok<br>
+Baskı Kalitesi (Renkli)	Yok<br>
+Baskı Kalitesi (Siyah)	1200 x 1200 DPI<br>
+Baskı Türü	Siyah - Beyaz<br>
+Bit Değeri	24 Bit<br>
+Boyutlar	406 x 359.6 x 253 mm<br>
+Dahili Bellek	128 MB<br>
+Dakikadaki Renkli Baskı Hızı(Max)	Yok<br>
+Dakikadaki Siyah/Beyaz Baskı Hızı(Max)	20 Sayfa<br>
+Dublex Baskı	Yok<br>
+Ekran	Satır LCD<br>
+Ethernet Bağlantısı	Yok<br>
+Faks Özelliği	Yok<br>
+Fotoğraf Baskısı	Yok<br>
+Fotokopi Özelliği	Var<br>
+İşletim Sistemi	Mac OS, Windows<br>
+Kağıt Boyutları	A4, A5, B5, B6<br>
+Kağıt Çıkış Kapasitesi	100 Sayfa<br>
+Kağıt Giriş Kapasitesi	150 Sayfa<br>
+Kart Okuyucu	Yok<br>
+Kartuş / Toner Adedi	1<br>
+Renkli Tarama	Var<br>
+Sarf Durumu (Kutudaki)	Demo Toner<br>
+Tarama Çözünürlüğü	1200 DPI<br>
+Tarayıcı Özelliği	Var<br>
+Usb Kablo	Var<br>
+USB	Yok<br>
+Wi-Fi	Yok<br>
+Yazıcı Tipi	Çok Fonksiyonlu<br>
+Diğer<br>
+Garanti Süresi (Ay)	24<br>
+Yurt Dışı Satış	Var<br>
+Stok Kodu	BD801739
+</font></center></p>
